@@ -46,9 +46,7 @@ The **HTML file** provides the structure of the web page.
 </section>
 ```
 - **Buttons with Hover Effects**
-```
-
-```
+  
 **(b) Testimonial Section**
 ```html
 <div class="testimonial-container">
@@ -74,9 +72,7 @@ The **HTML file** provides the structure of the web page.
 - **Used CSS Grid and Flex**
 - **CSS Transform Property**
 - **Hover Effects**
-```
 
-```
 ---
 
 **3. CSS Explanation (`style.css`)**
