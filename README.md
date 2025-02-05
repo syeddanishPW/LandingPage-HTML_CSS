@@ -1,5 +1,4 @@
- **Documentation for Your Web Project (Including Animations & Keyframes)**  
-This documentation provides an overview of **StudySync** web project, explaining its **HTML, CSS, animations, and responsiveness** in a beginner-friendly manner.
+ This documentation provides an overview of **StudySync** web project, explaining its **HTML, CSS, animations, and responsiveness** in a beginner-friendly manner.
 
 ---
 
