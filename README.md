@@ -22,9 +22,11 @@ Google Fonts for enhanced typography
 3. HTML Explanation (index.html)
 
 ✔ Explanation:
-<fieldset> groups related form elements, improving structure and accessibility.
-<legend> provides a title for better readability.
-✔ Issue: YouTube doesn’t allow direct embedding via ```<video>``` and ```<source>```.
+```html
+<fieldset>``` groups related form elements, improving structure and accessibility.
+```html
+<legend>``` provides a title for better readability.
+✔ Issue: YouTube doesn’t allow direct embedding via ```<video>``` and <source>.
 Instead, use an <iframe> like this:
 ```html
  <div class="media-gallery">
