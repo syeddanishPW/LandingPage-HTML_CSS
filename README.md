@@ -24,13 +24,15 @@ Google Fonts for enhanced typography
 ✔ Explanation:
 <fieldset> groups related form elements, improving structure and accessibility.
 <legend> provides a title for better readability.
-✔ Issue: YouTube doesn’t allow direct embedding via <video> and <source>.
+✔ Issue: YouTube doesn’t allow direct embedding via ```<video>``` and ```<source>```.
 Instead, use an <iframe> like this:
+```html
  <div class="media-gallery">
       <iframe src="https://www.youtube.com/embed/8htJwPTFvRo" frameborder="0" allowfullscreen></iframe>
       <iframe src="https://www.youtube.com/embed/iS-lWnlZuQ8" frameborder="0" allowfullscreen></iframe>
       <iframe src="https://www.youtube.com/embed/nXbXNB9E71o" frameborder="0" allowfullscreen></iframe>
     </div>
+```
 
 Form Fields: Users enter their name, email, contact number, and department.
 Dropdown Menu: Allows users to select their department.
