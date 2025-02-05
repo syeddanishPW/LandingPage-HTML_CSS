@@ -76,7 +76,8 @@ The **HTML file** provides the structure of the web page.
 ---
 
 **3. CSS Explanation (`style.css`)**
- **(a) Global Styling**
+ 
+**(a) Global Styling**
 ```css
 :root {
     --primary-color: #6366f1;
@@ -92,9 +93,6 @@ The **HTML file** provides the structure of the web page.
 ```
 - Uses **CSS Variables** for easy theme management.  
 - Ensures consistent styling across the webpage.  
-
----
----
 
 **(b) Animations & Keyframes**
 **1 Fade-In Animation for Main Section**  
@@ -117,8 +115,6 @@ The **HTML file** provides the structure of the web page.
 }
 ```
 - **Main section fade in when they appear.**  
-
----
 
  **(d) Responsive Design- Mobile First Approach**
 ```css
